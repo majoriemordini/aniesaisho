@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baeraengie.rendertoolbox.org/sitemap.xml
